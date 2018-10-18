@@ -2,3 +2,7 @@
 
 
 Leman check is a project fo shopping app
+
+
+
+stage 2 
