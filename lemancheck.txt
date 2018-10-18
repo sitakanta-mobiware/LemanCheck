@@ -7,6 +7,10 @@ Leman check is a project fo shopping app
 
 stage 2 
 
+stage3
+stage4
+stage5
+
 
 
 
